@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pss:home|Door43 (pss)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pss|d43-pss repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pss/archive/master.zip|d43-pss.zip]]
+
+**Recent Changes**
+{{changes>ns = pss}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pss|Ethnologue data]]
+
